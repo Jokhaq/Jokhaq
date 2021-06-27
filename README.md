@@ -14,7 +14,7 @@
 
 ```bash
 
-2021-06-27 - 18:50:11 UTC
+2021-06-27 - 19:18:43 UTC
 
 ```
 
@@ -26,7 +26,7 @@ Host Name : fv-az80-108
 
 platform  : Linux-5.8.0-1033-azure-x86_64-with-glibc2.31
 
-Ip Local  : 10.1.0.150
+Ip Local  : 10.1.0.134
 
 ```
 
